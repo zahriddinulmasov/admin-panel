@@ -1,7 +1,7 @@
 export const Language = {
   uz: {
     translation: {
-      title: "Roʻyxatdan oʻtish",
+      title: "Roʻyxatdan oʻtish!",
       modal: {
         modalTitle: "Sizning ma'lumotlaringiz",
         firstName: "Ism:",
@@ -21,7 +21,7 @@ export const Language = {
 
   ru: {
     translation: {
-      title: "Регистрация",
+      title: "Регистрация!",
       modal: {
         modalTitle: "Ваша информация",
         firstName: "Имя:",
@@ -41,7 +41,7 @@ export const Language = {
 
   en: {
     translation: {
-      title: "Registration",
+      title: "Registration!",
       modal: {
         modalTitle: "Your information",
         firstName: "Name:",
