@@ -1,0 +1,25 @@
+.app {
+  &__left {
+    height: 100vh;
+  }
+
+  &__left_inner {
+    padding: 20px;
+    margin: 28%;
+    width: 450px;
+  }
+
+  &__select {
+    width: 100px;
+  }
+
+  &__title {
+    margin: 0;
+  }
+
+  &__right{
+    background-image: url("../src/assets/images/res.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
